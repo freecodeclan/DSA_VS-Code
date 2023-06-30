@@ -1,3 +1,4 @@
+/* Take an input of size and elements of an array from user and arrange it in assending order */
 #include <bits/stdc++.h>
 using namespace std;
 
